@@ -4,7 +4,7 @@ Cybersecurity enthusiast, learning as much as I can every day.
 
 You can find me on [THM](https://tryhackme.com/p/arth0s) and [HTB](https://app.hackthebox.com/profile/602818) and their respective Discords. 
 
-Currently preparing for the [PNPT](https://certifications.tcm-sec.com/pnpt/) and [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist).
+[PNPT](https://certifications.tcm-sec.com/pnpt/) certified. Currently preparing for the [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist).
 
 
 <!---
